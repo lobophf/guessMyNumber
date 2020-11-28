@@ -4,8 +4,6 @@ let secretNumber = 1 + Math.trunc(Math.random() * 20);
 let highscore = 0;
 let score = 20;
 
-console.log(document.querySelector('.highscore'));
-
 document.querySelector('.again').addEventListener('click', function(){
 	score = 20;
 	secretNumber = 1 + Math.trunc(Math.random() * 20);
