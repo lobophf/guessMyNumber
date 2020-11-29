@@ -19,7 +19,7 @@ You can try this game by clicking on the button below.
 This game does not require installation. To play this game on your machine, first clone this repository.
 
 ```sh
-$ git@github.com:lobophf/guessMyNumber.git
+$ git clone git@github.com:lobophf/guessMyNumber.git
 ```
 
 Then access the guessMyNumber folder, and open the `index.html` file in your browser by clicking twice.
