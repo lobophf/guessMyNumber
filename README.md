@@ -1,4 +1,4 @@
-<h1 align="center">Guess My Numberdocs: Fixing a typo mistake.!</h1>
+<h1 align="center">Guess My Number!</h1>
 
 <p align="center">
 	<img height="230px" src="https://dl.dropboxusercontent.com/s/ky1zd76rpu88oc8/Screenshot_2020-11-29%20Guess%20My%20Number%20%281%29.png?dl=0" alt="guessed">
