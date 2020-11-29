@@ -24,3 +24,7 @@ $ git clone git@github.com:lobophf/guessMyNumber.git
 ```
 
 Then access the guessMyNumber folder, and open the `index.html` file in your browser by clicking twice.
+
+## License
+
+**Guess My Number** is a MIT licensed, as found in the [LICENSE](./blob/master/LICENSE) file.
