@@ -16,7 +16,7 @@ You can try this game by clicking on the button below.
 </p>
 
 ## :clubs: Using:
-This game does not require installation. To play this game on your machine, first clone this repository.
+This game does not require installation. To play it on your machine, first clone this repository.
 
 ```sh
 $ git clone git@github.com:lobophf/guessMyNumber.git
