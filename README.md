@@ -15,7 +15,7 @@ You can try this game by clicking on the button below.
 <img height=28px src="https://img.shields.io/badge/%7F-HTML-black?logo=html5&style=flat"> <img height=28px src="https://img.shields.io/badge/%7F-CSS-black?logo=css3&style=flat"> <img height=28px src="https://img.shields.io/badge/%7F-JavaScript-black?logo=javascript&style=flat">
 </p>
 
-## :dice: Using:
+## :clubs: Using:
 This game does not require installation. To play this game on your machine, first clone this repository.
 
 ```sh
