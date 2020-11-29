@@ -1,3 +1,4 @@
+## :question: About:
 **Guess my Number** is a free game made for you spend your free time. The rules are simple:
 
 -  The player tries guessing a number between 1 and 20.
