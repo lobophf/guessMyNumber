@@ -1,3 +1,5 @@
+<h1 align="center">Guess My Number</h1>
+
 <p align="center">
 	<img height="230px" src="https://dl.dropboxusercontent.com/s/ky1zd76rpu88oc8/Screenshot_2020-11-29%20Guess%20My%20Number%20%281%29.png?dl=0" alt="guessed">
 	<img height="230px" src="https://dl.dropboxusercontent.com/s/19au5necysxi718/Screenshot_2020-11-29%20Guess%20My%20Number%20.png?" alt="start">
