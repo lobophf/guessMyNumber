@@ -1,4 +1,5 @@
-**Guess my Number** is a game made for you to play in your free time. The rules are simple:
+**Guess my Number** is a free game made to spend your free time. The rules are simple:
+
 -  The player tries guessing a number between 1 and 20.
 - If the guessed value is correct, the player wins the game. If not, the player can try again while the score is great than 0.
 
@@ -16,7 +17,7 @@ You can try this game by clicking on the button below.
 </p>
 
 ## :clubs: Using:
-This game does not require installation. To play it on your machine, first clone this repository.
+This game doesn't require installation. To play it on your machine, first clone this repository.. To play it on your machine, first clone this repository.
 
 ```sh
 $ git clone git@github.com:lobophf/guessMyNumber.git
