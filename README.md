@@ -23,7 +23,7 @@ This game doesn't require installation. To play it on your machine, first clone 
 $ git clone git@github.com:lobophf/guessMyNumber.git
 ```
 
-Then access the guessMyNumber folder, and open the `index.html` file in your browser by clicking twice.
+Then access the `guessMyNumber` folder, and open the `index.html` file in your browser by clicking twice.
 
 ## License
 
