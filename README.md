@@ -20,7 +20,7 @@
 **Guess my Number** is a free game made for you to spend free time. The rules are simple:
 
 -  The player tries guessing a number between 1 and 20.
-- If the guessed value is correct, the player wins the game. If not, the player can try again while the score is great than 0.
+- If the guessed value is correct, the player wins the game. If not, the player can try again while the score is greater than 0.
 
 You can try this game by clicking on the button below.
 
