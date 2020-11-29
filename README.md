@@ -27,4 +27,4 @@ Then access the `guessMyNumber` folder, and open the `index.html` file in your b
 
 ## License
 
-**Guess My Number** is a MIT licensed, as found in the [LICENSE](./blob/master/LICENSE) file.
+**Guess My Number** is a MIT licensed, as found in the [LICENSE](./LICENSE) file.
