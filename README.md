@@ -6,7 +6,7 @@
     	<br>
 	<a href="#question-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	<a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-	<a href="#clubs-using">Using</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="#clubs-gaming">Gaming</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	<a href="#balance_scale-license">License</a>	
 </p>
 
@@ -35,7 +35,7 @@ Note: This game was created by [@jonasschmedtmann](https://github.com/jonasschme
 <img height=28px src="https://img.shields.io/badge/%7F-HTML-black?logo=html5&style=flat"> <img height=28px src="https://img.shields.io/badge/%7F-CSS-black?logo=css3&style=flat"> <img height=28px src="https://img.shields.io/badge/%7F-JavaScript-black?logo=javascript&style=flat">
 </p>
 
-## :clubs: Using:
+## :clubs: Gaming:
 This game doesn't require installation. To play it on your machine, first clone this repository.
 
 ```sh
